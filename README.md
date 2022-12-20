@@ -1,2 +1,2 @@
 # `osdev-project`
-## `# A simple project for osdev`
+## `#` `A` `simple` `project` `for` `osdev`
